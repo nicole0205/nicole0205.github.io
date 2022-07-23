@@ -2,7 +2,7 @@
 title: 写给宋延琨以及拼命三郎顾可可以及我的朋友
 date: 2012-10-06 00:00:00 -500
 categories: []
-tags: [高考] # TAG names should always be lowercase
+tags: [爱情, 高考] # TAG names should always be lowercase
 ---
 
 这些话本来是今晚写在宋延琨留言板上，但是越写越多。总觉得应该留下来。给以后的自己看应该很有意义。
