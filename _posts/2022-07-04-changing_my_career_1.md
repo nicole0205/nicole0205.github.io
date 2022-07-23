@@ -2,7 +2,7 @@
 title: ✨🐼✨我的转行之路（1）
 date: 2022-07-04 00:00:00 -500
 categories: []
-tags: [] # TAG names should always be lowercase
+tags: [分享] # TAG names should always be lowercase
 ---
 
 嗨大家，好久不见！
@@ -74,4 +74,3 @@ tags: [] # TAG names should always be lowercase
 谢谢大家看完。
 
 后面我或许会更具体的聊聊我是怎么找到热爱的事业，以及作为一个零基础的人是如何跨专业自学和申请学校的。
-
