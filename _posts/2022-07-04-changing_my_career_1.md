@@ -75,4 +75,3 @@ tags: [] # TAG names should always be lowercase
 
 后面我或许会更具体的聊聊我是怎么找到热爱的事业，以及作为一个零基础的人是如何跨专业自学和申请学校的。
 
-https://m.weibo.cn/5330114643/4787480278338253
