@@ -3,6 +3,8 @@ title: 纪录片分享
 date: 2020-10-04 00:00:00 -500
 categories: []
 tags: [纪录片, 分享] # TAG names should always be lowercase
+img_path: /assets/posts/
+
 ---
 
 我的微博从明天起就卸载啦

@@ -3,6 +3,7 @@ title: ✨🐼✨我的转行之路（1）
 date: 2022-07-04 00:00:00 -500
 categories: []
 tags: [分享] # TAG names should always be lowercase
+img_path: /assets/posts/
 ---
 
 嗨大家，好久不见！

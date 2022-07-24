@@ -3,6 +3,7 @@ title: 我的租房经验
 date: 2020-06-21 00:00:00 -500
 categories: []
 tags: [租房, 分享] # TAG names should always be lowercase
+img_path: /assets/posts/
 ---
 
 我一共租过三次房（刚来纽约和别人合租了一段时间的除外），分别是在南京淮安纽约，感觉自己看房经验也算比较丰富了。

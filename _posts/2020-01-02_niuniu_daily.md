@@ -3,6 +3,8 @@ title: 🐰美妞妞日常
 date: 2020-01-02 00:00:00 -500
 categories: []
 tags: [妞妞] # TAG names should always be lowercase
+img_path: /assets/posts/
+
 ---
 
 1. 晚上会跟我共享一个枕头，然后头靠头，一起进入梦乡。

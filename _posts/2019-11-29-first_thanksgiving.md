@@ -3,6 +3,8 @@ title: 在美国的第一个感恩节
 date: 2019-11-29 00:00:00 -500
 categories: []
 tags: [日记, 感恩节] # TAG names should always be lowercase
+img_path: /assets/posts/
+
 ---
 
 今天被我参加的一个项目的 partner 邀请，去她 cousin 家里过了一次真正的美国人的 Thanksgiving Day！非常非常非常有意思！很多场景就像电影里演的，然而我居然身处其中，有一种不真实感。
